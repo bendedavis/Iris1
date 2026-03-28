@@ -35,7 +35,6 @@ In this mode:
 
 Once entered, the mode stays active until the knob is left untouched for 4 seconds.
 
-Holding the mute button for 6 seconds performs a full reset to default settings.
 
 ### Clock In
 Any signal above roughly 1V advances the sequence.
